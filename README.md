@@ -4,6 +4,7 @@
 <br>
 <br>
 <br>
+
 ## <a href="https://zerow41.github.io/web1_html_internet/version2" target="_blank">version2</a>
 - css 사용법
 - 기존의 html파일에 css를 사용해 디자인적 요소를 더함
@@ -11,5 +12,6 @@
 <br>
 <br>
 <br>
+
 ## version3
 추가 예정

@@ -1,5 +1,4 @@
-## version1  
-<https://zerow41.github.io/web1_html_internet/version1>
+## <a href="https://zerow41.github.io/web1_html_internet/version1" target="_blank">version1</a>
 - html 기초 사용법
 - 여러가지 태그에 대해 사용법을 익힘
 
